@@ -1,0 +1,501 @@
+Book_ID,Title,Author,ISBN,Edition,Publication_Year,Category_Name,Publisher_Name,Availability
+1,Scott Norman: A Memoir,Kathy Jones,978-0-342-80138-1,3,2003,Biography,Bloomsbury,Borrowed
+2,The Last River,Michael Rodriguez,978-1-63836-151-0,5,2006,Fiction,McGraw-Hill,Borrowed
+3,The Rise of Mountain,Dwayne Bowen,978-1-71647-947-2,1,1991,History,Springer,Reserved
+4,In the Words of Jason Mercer,Scott Jacobson,978-1-207-16781-9,1,2004,Biography,Chronicle Books,Borrowed
+5,The Last Fire,Natalie Stafford,978-0-535-39613-7,3,1994,Fiction,Macmillan Publishers,Borrowed
+6,A Story of Light,Lauren Nelson,978-1-79678-427-5,3,2002,Fiction,Pearson Education,Borrowed
+7,Master Your River,Brandy Garcia,978-0-7026-9524-7,2,2017,Self-Help,Hachette Book Group,Available
+8,A Story of Path,Patricia Sparks,978-1-77848-588-6,5,2012,Fiction,HarperCollins,Available
+9,Little Shadow,Barbara Cole,978-1-70028-427-3,4,1980,Children,Wiley,Borrowed
+10,Dream Every Day,Laura Henry,978-1-82806-479-5,3,2019,Self-Help,Oxford University Press,Borrowed
+11,Light Explained,Erica Johnson,978-0-559-05616-1,4,2000,Science,Cambridge University Press,Borrowed
+12,The Philosophy of Dream,Danielle Wong,978-0-415-20850-5,2,2019,Philosophy,McGraw-Hill,Available
+13,On Light,Deborah Dominguez,978-1-69659-171-3,4,2017,Philosophy,McGraw-Hill,Available
+14,In the Words of Christine Crawford,Mary Jackson,978-1-63718-344-1,2,2022,Biography,HarperCollins,Available
+15,Thinking About Storm,Patrick Davis,978-1-4198-7635-6,3,1994,Philosophy,MIT Press,Available
+16,Mastering Fire,Jessica Fernandez,978-1-64987-820-5,1,2009,Technology,Cambridge University Press,Available
+17,The Art of Dream,Mr. Rodney Hurley III,978-0-8357-2324-4,2,2021,Business,Springer,Available
+18,Broken Storm,Madison Singleton,978-1-249-36312-5,5,2009,Fiction,Penguin Random House,Borrowed
+19,The Power of Mountain,Justin Graham,978-0-242-04482-6,5,2015,Self-Help,McGraw-Hill,Available
+20,In the Words of Amanda Sharp,Amy Mosley,978-1-165-16231-4,5,2008,Biography,Bloomsbury,Reserved
+21,Light: A Chronicle,Lauren Hampton,978-1-139-15596-0,3,2013,History,Scholastic,Borrowed
+22,Mastering Storm,Brian Lewis,978-1-64907-851-3,3,2000,Technology,Bloomsbury,Available
+23,Dream Every Day,Sherry Giles,978-1-5409-0034-0,2,1993,Self-Help,HarperCollins,Available
+24,My First Shadow,Robert Martinez,978-1-60644-134-3,4,2004,Children,Bloomsbury,Available
+25,The Dream Strategy,Sherry Wang,978-0-417-76561-7,1,2002,Business,Hachette Book Group,Reserved
+26,My First Ocean,Lance Li,978-1-00-272063-9,2,2011,Children,Macmillan Publishers,Borrowed
+27,On Path,Jose Booker,978-1-57724-295-6,4,1990,Philosophy,Chronicle Books,Available
+28,The Broken Secret,Shawn Duffy,978-0-08-931734-3,1,1985,Mystery,Pearson Education,Reserved
+29,My First Shadow,David Davis,978-0-910867-71-9,4,2000,Children,Macmillan Publishers,Available
+30,Missing Dream,Deborah Francis,978-0-639-34362-4,1,2010,Mystery,Penguin Random House,Available
+31,Master Your River,Luke Solomon,978-1-107-25636-1,1,1981,Self-Help,Macmillan Publishers,Available
+32,Mountain in Practice,Anthony Cook,978-1-59900-489-1,1,2016,Technology,Macmillan Publishers,Borrowed
+33,The Case of the Silent Star,Steven Williams,978-1-287-57215-2,1,1990,Mystery,Hachette Book Group,Borrowed
+34,Dream Explained,William Porter,978-1-64494-856-9,2,1984,Science,McGraw-Hill,Available
+35,The River Handbook,Brittany Farrell,978-0-320-32074-3,1,2002,Technology,Wiley,Available
+36,The Adventures of Path,Kathleen Alexander,978-1-71215-134-1,4,2011,Children,HarperCollins,Borrowed
+37,My First Dream,Steven Willis,978-0-613-71504-1,5,2021,Children,Hachette Book Group,Reserved
+38,The Art of Dream,Tiffany Hood,978-0-17-774905-6,5,1997,Business,Oxford University Press,Borrowed
+39,Mastering Fire,Nicholas Navarro,978-0-04-501896-3,4,2016,Technology,McGraw-Hill,Borrowed
+40,My First Mountain,Jennifer Smith,978-0-664-21476-0,2,2002,Children,MIT Press,Available
+41,Thinking About Shadow,Heather Davis,978-0-7767-4996-9,2,1985,Philosophy,Macmillan Publishers,Available
+42,Little Fire,Mark Davis,978-1-327-88147-3,1,1985,Children,Hachette Book Group,Available
+43,Star in Practice,Carl Leach,978-1-4908-1081-2,4,2015,Technology,Wiley,Available
+44,Finding Jennifer Marshall,Robin Kelly,978-0-17-226016-7,3,1996,Biography,Macmillan Publishers,Available
+45,Ocean Explained,Michael Hanson,978-1-232-19416-3,2,1992,Science,Macmillan Publishers,Borrowed
+46,The Case of the Lost Storm,John Holt,978-1-995641-22-5,2,2003,Mystery,Simon & Schuster,Available
+47,The Philosophy of Shadow,Shannon Clark,978-0-683-14727-8,5,1998,Philosophy,Springer,Available
+48,Shadow: A Chronicle,Jill Washington,978-1-933496-05-4,3,2010,History,Scholastic,Borrowed
+49,The Golden Secret,Sarah Mclaughlin,978-0-7678-9973-4,1,2005,Mystery,Scholastic,Available
+50,The Science of Mountain,Arthur Orozco,978-1-179-57602-2,3,1985,Science,Macmillan Publishers,Available
+51,Principles of Star,Daniel Stout,978-1-246-65729-6,2,2013,Science,Cambridge University Press,Available
+52,The Case of the Forgotten Dream,Mr. Christopher Vasquez,978-1-4338-0054-2,5,2019,Mystery,Penguin Random House,Reserved
+53,The Storm Strategy,Amanda Brown,978-0-931837-45-6,1,1990,Business,Macmillan Publishers,Reserved
+54,The Rise of Dream,Stephanie Castaneda,978-0-7711-9918-9,5,2010,History,Hachette Book Group,Available
+55,When River Falls,Susan Moore,978-1-871255-21-8,2,1996,Fiction,MIT Press,Available
+56,Leading with River,Danielle Lamb,978-1-82145-653-5,2,2021,Business,Simon & Schuster,Borrowed
+57,On Mountain,Robert Gutierrez,978-1-85072-081-2,5,2016,Philosophy,Bloomsbury,Borrowed
+58,Dream and Meaning,Antonio Malone,978-0-8466-8455-8,5,2014,Philosophy,Scholastic,Available
+59,The Broken Secret,Melody Griffin,978-1-56341-085-7,3,1981,Mystery,HarperCollins,Available
+60,Mastering Star,Kimberly Lewis,978-1-200-89434-7,2,2010,Technology,Wiley,Reserved
+61,Murder at Clearwater,Jake Sims,978-0-01-749075-9,4,1985,Mystery,Scholastic,Reserved
+62,Finding Dr. Virginia Cunningham,Lori Ferguson,978-1-4492-6831-2,4,2024,Biography,Scholastic,Available
+63,Shadow and Meaning,Brent Dawson,978-0-10-627371-3,1,2000,Philosophy,Hachette Book Group,Borrowed
+64,In the Words of Joseph Chapman,Jennifer Baker,978-1-77622-827-0,5,2009,Biography,Cambridge University Press,Available
+65,When Fire Falls,Bailey Lewis,978-0-285-19611-7,4,1983,Fiction,Macmillan Publishers,Available
+66,Thinking About Fire,Eric Brooks,978-1-02-296044-2,1,2020,Philosophy,McGraw-Hill,Available
+67,The Shadow Handbook,Gregory Harrell,978-1-949756-79-1,4,1985,Technology,Macmillan Publishers,Borrowed
+68,The Science of Fire,Mary Hernandez,978-0-9966365-8-2,3,2012,Science,Springer,Available
+69,Storm and Meaning,Brandon Martin,978-1-81813-989-2,5,1989,Philosophy,Cambridge University Press,Available
+70,Light in Practice,Kathryn Smith,978-0-433-97189-4,3,2012,Technology,Hachette Book Group,Reserved
+71,When Star Falls,Gina White,978-1-64111-824-8,4,1989,Fiction,Scholastic,Available
+72,Master Your Ocean,Jason Jackson,978-0-00-461526-4,4,2000,Self-Help,Chronicle Books,Available
+73,Dream in Practice,Amber Allen,978-1-886140-57-8,4,1982,Technology,Oxford University Press,Lost
+74,Missing Mountain,Susan Smith,978-0-8249-6718-5,1,1988,Mystery,Wiley,Borrowed
+75,The River Strategy,Dr. Kimberly Henderson,978-0-07-942007-7,4,1980,Business,Springer,Available
+76,The Rise of Fire,Dr. Christy Pittman MD,978-0-416-12846-8,3,2019,History,Springer,Available
+77,Dream Goes to School,Theresa Reid,978-1-355-37950-8,4,2014,Children,Penguin Random House,Borrowed
+78,River in Business,April Smith,978-1-876811-80-8,1,2020,Business,Springer,Available
+79,Shadow Explained,William Bennett,978-1-201-75370-4,1,1998,Science,Oxford University Press,Available
+80,Alejandro Campbell: A Memoir,Heather Davis,978-0-375-04793-0,2,1990,Biography,Simon & Schuster,Available
+81,Principles of Storm,Donald Mason,978-0-9992192-1-8,5,1989,Science,Macmillan Publishers,Borrowed
+82,Missing Shadow,Monica Hill,978-1-870605-66-3,3,2023,Mystery,Wiley,Borrowed
+83,Lost Light,Peter Stephenson,978-0-468-75063-1,4,2024,History,Hachette Book Group,Available
+84,Murder at Millbrook,Courtney Norris DVM,978-0-254-11076-2,2,2004,Mystery,McGraw-Hill,Borrowed
+85,Finding Leslie Sims,David Rodriguez,978-1-05-831997-9,1,2016,Biography,Chronicle Books,Available
+86,A Story of Storm,Antonio Johnson,978-0-207-04961-3,3,1994,Fiction,Pearson Education,Reserved
+87,Shadow in Practice,Jennifer Williamson,978-0-9907676-9-5,4,1982,Technology,McGraw-Hill,Borrowed
+88,The Life of Gina Pace,Jordan Murphy,978-0-10-919392-6,4,1991,Biography,Macmillan Publishers,Borrowed
+89,Lost Ocean,Jill Sanchez,978-0-249-68549-7,2,1996,History,Bloomsbury,Borrowed
+90,The Case of the Dark River,Grant Wood,978-0-03-880653-9,1,1989,Mystery,MIT Press,Reserved
+91,Modern Path,Collin Alvarez,978-1-995946-52-8,4,1980,Technology,Hachette Book Group,Borrowed
+92,Master Your Star,Thomas Fowler DDS,978-0-375-63620-2,3,1986,Self-Help,Pearson Education,Available
+93,The Storm Handbook,Dylan Lee,978-0-03-342342-7,1,2020,Technology,Chronicle Books,Available
+94,The Case of the Broken River,Ryan Lozano,978-0-615-34735-6,1,1982,Mystery,Hachette Book Group,Reserved
+95,Murder at Stonehaven,Yolanda Keith,978-0-223-38655-6,4,2003,Mystery,Pearson Education,Available
+96,River Every Day,Luis Lopez,978-0-530-42897-0,5,2006,Self-Help,Hachette Book Group,Available
+97,The Last Fire,Amy Romero,978-1-872558-77-6,3,1986,Fiction,Pearson Education,Borrowed
+98,Finding Kevin Little,Marie Clark,978-1-363-46692-4,2,1987,Biography,Chronicle Books,Available
+99,Murder at Millbrook,Bradley Wallace,978-0-907895-67-1,3,1995,Mystery,Simon & Schuster,Available
+100,Leading with Storm,James White,978-1-151-48881-7,3,1989,Business,MIT Press,Available
+101,Leading with Ocean,Andrew Gonzalez,978-1-4443-9284-5,2,1987,Business,Pearson Education,Available
+102,When Star Falls,Jennifer Sullivan,978-1-82633-373-2,1,1991,Fiction,Hachette Book Group,Available
+103,A Story of River,Julia Conner,978-0-663-77805-8,1,2010,Fiction,Scholastic,Available
+104,The Life of Shane Torres,Kathryn Hopkins,978-1-366-68459-2,5,1982,Biography,Springer,Available
+105,The Power of Fire,Troy Rivera,978-1-361-86371-8,4,2023,Self-Help,HarperCollins,Available
+106,Missing River,Christopher Leonard,978-0-9702316-4-2,5,1989,Mystery,HarperCollins,Borrowed
+107,Lost Star,Jacob Smith,978-1-62128-671-4,3,2009,History,Wiley,Available
+108,The Storm Strategy,Emily Meyers,978-0-9949387-4-9,4,1994,Business,Cambridge University Press,Available
+109,In the Words of William Griffin,Lisa Wright,978-1-77901-475-7,4,2000,Biography,Pearson Education,Borrowed
+110,The Philosophy of River,Rhonda Thompson,978-0-9676291-6-2,1,1985,Philosophy,Cambridge University Press,Available
+111,Ocean Explained,Stephen Medina,978-0-7681-5118-3,5,2015,Science,Wiley,Borrowed
+112,In the Words of Erika Hayes,Jonathan Murray,978-1-65636-004-5,1,1998,Biography,McGraw-Hill,Borrowed
+113,The Philosophy of Fire,Kari Jones,978-1-274-22091-2,1,2002,Philosophy,Chronicle Books,Available
+114,Master Your Storm,Michael Smith,978-0-7523-0837-1,5,2019,Self-Help,McGraw-Hill,Available
+115,Master Your Mountain,Michelle Prince,978-1-70900-633-3,3,2001,Self-Help,Oxford University Press,Available
+116,The Last Dream,William Rogers,978-0-312-20681-9,2,2020,Fiction,Penguin Random House,Available
+117,Understanding Dream,Taylor Foster,978-0-331-55206-5,3,1990,Science,Oxford University Press,Borrowed
+118,On Mountain,Matthew Ramirez,978-0-13-649718-9,5,1983,Philosophy,Pearson Education,Borrowed
+119,Principles of Star,Brandon Nguyen,978-0-525-71509-2,4,1997,Science,Macmillan Publishers,Available
+120,Becoming Lost,Kathy Bush,978-0-09-143639-1,5,2011,Self-Help,Wiley,Available
+121,Shadow and Meaning,James May,978-1-5245-0864-7,2,1999,Philosophy,Macmillan Publishers,Available
+122,Lost River,Daniel Brown,978-0-9685270-1-6,4,2007,History,Simon & Schuster,Borrowed
+123,The Rise of Ocean,Brenda Harris,978-0-9833816-7-9,3,1984,History,Cambridge University Press,Available
+124,A Story of Path,David Mitchell,978-0-471-56627-4,4,2016,Fiction,Cambridge University Press,Available
+125,My First Path,Sally Leon,978-1-61498-282-1,5,2009,Children,Chronicle Books,Available
+126,The Life of John Chavez,Larry Jones,978-1-323-00857-7,4,2013,Biography,HarperCollins,Available
+127,Path Goes to School,Janet Parker,978-1-01-692364-4,1,2012,Children,Pearson Education,Borrowed
+128,Understanding Path,Madison Richardson,978-1-63370-502-9,2,1995,Science,HarperCollins,Available
+129,The Rise of Mountain,Lance Lynn,978-0-11-669183-5,1,1991,History,MIT Press,Available
+130,Missing Star,Kathryn Ferguson,978-1-61195-243-8,3,1989,Mystery,Scholastic,Available
+131,Star Explained,Dr. April Jones,978-1-4622-5223-7,3,2012,Science,HarperCollins,Available
+132,On Path,Curtis Brady,978-1-67912-141-8,1,2021,Philosophy,Chronicle Books,Available
+133,Principles of Star,Karen Chambers,978-0-04-090138-3,1,2008,Science,Bloomsbury,Borrowed
+134,Fire in Business,Deborah Tucker,978-1-55553-566-7,2,1983,Business,Scholastic,Borrowed
+135,Ocean Explained,April Harrell,978-0-09-184357-1,2,1982,Science,Macmillan Publishers,Borrowed
+136,Murder at Westgate,Cole Andersen,978-0-505-73976-6,4,2006,Mystery,MIT Press,Lost
+137,The Life of Rebecca Bailey,Teresa Alvarez,978-1-4932-8980-6,1,2015,Biography,Pearson Education,Borrowed
+138,Little River,Kimberly Baxter,978-1-178-33321-3,2,2002,Children,Hachette Book Group,Available
+139,The Adventures of Ocean,Erin Reyes,978-0-471-28715-5,3,1988,Children,Pearson Education,Available
+140,Becoming Secret,Maria Bennett,978-1-334-14111-9,3,1999,Self-Help,Simon & Schuster,Available
+141,Modern Storm,Laura Anderson,978-1-904098-36-2,2,1984,Technology,Hachette Book Group,Available
+142,The Science of Star,Rebecca Meyer,978-0-608-75243-3,5,2004,Science,Simon & Schuster,Available
+143,The Rise of Shadow,Michele George,978-0-497-37460-0,3,2023,History,Springer,Available
+144,The Storm Handbook,Rita Graves,978-0-7642-0865-2,2,1999,Technology,MIT Press,Reserved
+145,Murder at Stonehaven,Benjamin Acosta,978-0-86125-904-5,4,1998,Mystery,MIT Press,Reserved
+146,My First Storm,Doris Thomas,978-0-05-912662-3,2,1996,Children,Penguin Random House,Available
+147,The Secret Secret,Anthony Baird,978-1-263-01367-9,1,1990,Mystery,Hachette Book Group,Borrowed
+148,Murder at Ashford,Patty Esparza,978-1-64750-111-2,4,2002,Mystery,Bloomsbury,Reserved
+149,A Story of Path,Kevin Archer,978-1-192-67649-5,4,1985,Fiction,Oxford University Press,Available
+150,Mastering Mountain,Kimberly Sullivan,978-1-888718-98-0,1,1998,Technology,Bloomsbury,Available
+151,Murder at Riverdale,Tracie Merritt,978-0-08-751029-6,1,1985,Mystery,Penguin Random House,Borrowed
+152,The Philosophy of Star,Amanda Whitney,978-1-82603-408-0,4,1987,Philosophy,MIT Press,Available
+153,On Storm,John Edwards,978-0-10-303243-6,5,2009,Philosophy,HarperCollins,Available
+154,Principles of Ocean,Carl Dean,978-1-4626-7146-5,5,2016,Science,Macmillan Publishers,Borrowed
+155,The History of Path,Debra Schultz,978-1-989262-56-6,5,2006,History,Simon & Schuster,Available
+156,Ocean Explained,Joseph Sutton,978-0-515-54234-9,5,2012,Science,Wiley,Available
+157,A Story of Dream,Brian Frost,978-1-971859-48-4,3,1981,Fiction,Oxford University Press,Available
+158,The Science of Path,Paul White,978-1-924082-22-8,1,2002,Science,Wiley,Available
+159,Nicolas Brown: A Memoir,Vanessa Zimmerman,978-1-72757-844-7,2,1988,Biography,HarperCollins,Borrowed
+160,Murder at Millbrook,Crystal Reid,978-1-65111-312-7,3,1999,Mystery,Wiley,Available
+161,My First Shadow,Rhonda Smith,978-0-7788-1609-6,2,1998,Children,Oxford University Press,Lost
+162,When River Falls,Joseph Reed,978-1-283-21528-2,4,2005,Fiction,Springer,Borrowed
+163,Missing Mountain,Wayne Morgan,978-0-447-44309-7,4,2003,Mystery,Bloomsbury,Borrowed
+164,The Power of River,Kaylee Barry,978-1-05-097545-6,5,1991,Self-Help,Wiley,Available
+165,On Light,Adam Jordan,978-0-88261-702-2,4,2018,Philosophy,Springer,Available
+166,My First Fire,Jacob Mcclain,978-0-7722-5605-8,3,2019,Children,Cambridge University Press,Available
+167,On Dream,Casey Fisher,978-0-237-41678-2,5,2023,Philosophy,Simon & Schuster,Borrowed
+168,A Story of Mountain,Jennifer Barber,978-0-11-022580-7,2,2021,Fiction,Oxford University Press,Available
+169,The Life of Cynthia Gregory,William Mclaughlin,978-1-4471-6392-3,4,2003,Biography,Oxford University Press,Available
+170,Murder at Stonehaven,Dennis Haynes,978-0-7189-2392-1,3,2021,Mystery,Hachette Book Group,Borrowed
+171,Mastering Fire,Tanya Simmons DDS,978-0-668-43356-3,4,2015,Technology,HarperCollins,Reserved
+172,Star and Meaning,Derrick Ramirez,978-1-350-20005-0,4,1992,Philosophy,HarperCollins,Borrowed
+173,Fire: A Chronicle,Cody Vaughan,978-1-4110-8255-7,3,2022,History,Oxford University Press,Borrowed
+174,Mountain Explained,Jacqueline Santos,978-1-112-91093-7,2,2003,Science,Wiley,Available
+175,Storm in Practice,Lisa Turner,978-0-8202-3684-1,1,2003,Technology,Wiley,Available
+176,Leading with River,Hannah Diaz,978-1-176-88029-0,3,2005,Business,Springer,Available
+177,Missing River,Amy Compton,978-1-78812-786-8,3,2021,Mystery,HarperCollins,Available
+178,The Case of the Silent Ocean,Aaron Armstrong,978-1-884434-48-8,5,1991,Mystery,MIT Press,Available
+179,The History of Ocean,Mark Mcmahon,978-0-403-38105-0,3,1990,History,Simon & Schuster,Available
+180,Valerie Nguyen: A Memoir,Stacey Baker,978-1-945005-34-3,1,1996,Biography,Macmillan Publishers,Reserved
+181,Master Your Ocean,Paula Deleon,978-1-4983-7354-8,5,2021,Self-Help,Simon & Schuster,Available
+182,Leading with Star,Jeremy Blair,978-1-271-72722-3,5,2001,Business,Chronicle Books,Reserved
+183,The Shadow Strategy,Alisha Martin,978-1-931216-37-1,5,1996,Business,Pearson Education,Available
+184,Modern Shadow,Monica Morton,978-1-60100-231-0,5,1998,Technology,Pearson Education,Borrowed
+185,Fire and Meaning,Alexandra Conner,978-0-327-97245-7,1,1990,Philosophy,Scholastic,Available
+186,Little Star,Joshua Smith,978-0-8418-6203-6,3,2000,Children,Springer,Available
+187,Jeffery Hernandez: A Memoir,Courtney Koch,978-0-7213-1451-8,1,2000,Biography,Macmillan Publishers,Reserved
+188,Missing Mountain,Stephanie Munoz,978-1-85926-249-8,1,1998,Mystery,Cambridge University Press,Available
+189,Leading with Star,Mary Cantu,978-0-225-26771-6,3,1992,Business,MIT Press,Available
+190,Light: A Chronicle,Frank Anderson,978-1-57676-952-2,1,1985,History,Cambridge University Press,Available
+191,Star Every Day,Jonathan Ferguson,978-1-196-89313-3,1,1983,Self-Help,Hachette Book Group,Available
+192,Missing Ocean,John Anderson,978-0-552-47286-9,1,2007,Mystery,Simon & Schuster,Borrowed
+193,Shadow and Meaning,Victor Padilla,978-0-650-19179-2,1,2016,Philosophy,Wiley,Borrowed
+194,The Dream Handbook,Billy Carroll,978-0-272-84765-7,4,2015,Technology,Hachette Book Group,Available
+195,The River Strategy,Anthony Day,978-0-06-678498-4,3,2001,Business,Wiley,Borrowed
+196,Darren Huynh: A Memoir,Brandon Gray,978-0-690-36289-3,5,1982,Biography,Penguin Random House,Borrowed
+197,When Ocean Falls,Martin Wilcox,978-0-563-41115-4,2,2018,Fiction,Bloomsbury,Available
+198,Master Your Dream,Joshua Jones,978-1-383-03419-6,3,2017,Self-Help,Oxford University Press,Available
+199,Becoming Forgotten,Ernest Harding,978-1-4683-5652-6,1,2003,Self-Help,Oxford University Press,Borrowed
+200,Star Explained,Ashlee Aguirre,978-0-9679042-2-1,3,2021,Science,MIT Press,Reserved
+201,The Fire Strategy,Crystal Lewis,978-0-88985-725-4,5,2020,Business,Springer,Available
+202,The Art of Storm,Micheal Vega,978-0-9912971-0-8,5,2024,Business,HarperCollins,Borrowed
+203,The Mountain Handbook,Rachael Miller,978-1-5242-1495-1,2,2006,Technology,Wiley,Available
+204,The Ocean Strategy,William Good,978-0-19-705466-6,5,2000,Business,Pearson Education,Reserved
+205,The Case of the Silent Fire,Ryan Crane,978-0-687-40903-7,3,2014,Mystery,Oxford University Press,Available
+206,The Philosophy of Light,James Hudson,978-0-671-57787-2,3,1994,Philosophy,Hachette Book Group,Borrowed
+207,Fire and Meaning,Jennifer Hamilton,978-1-155-97371-5,5,1997,Philosophy,Hachette Book Group,Borrowed
+208,Principles of Path,Mark Flores,978-1-05-673030-1,3,1982,Science,Hachette Book Group,Available
+209,Principles of Fire,Angela Jones,978-0-476-83420-0,2,2014,Science,Hachette Book Group,Available
+210,Star Every Day,Carmen Bailey,978-1-78265-960-0,5,1995,Self-Help,Macmillan Publishers,Borrowed
+211,The Last Shadow,Laura Thomas,978-0-272-75164-0,4,2001,Fiction,Springer,Borrowed
+212,Murder at Ashford,Beth Cole,978-0-336-82963-6,4,2021,Mystery,Bloomsbury,Available
+213,Murder at Westgate,Alexis Cervantes,978-1-4817-7665-3,1,1985,Mystery,Pearson Education,Available
+214,The Dream Strategy,Ashley Thompson,978-1-289-28664-4,1,2005,Business,MIT Press,Available
+215,The Case of the Hidden Shadow,Marc Buckley,978-0-11-096179-8,5,2018,Mystery,HarperCollins,Available
+216,In the Words of Ariana Wallace,Amanda Roberts,978-0-378-61371-2,3,1992,Biography,MIT Press,Available
+217,Principles of Mountain,Maria Mueller,978-0-538-44446-0,3,1998,Science,McGraw-Hill,Available
+218,Modern Ocean,Alexander Gibbs,978-1-296-38639-9,1,2005,Technology,Pearson Education,Available
+219,Understanding Path,Betty Fields,978-1-58263-128-8,1,1996,Science,Cambridge University Press,Available
+220,The Light Handbook,Sydney Hood,978-1-311-06092-1,5,1980,Technology,Hachette Book Group,Available
+221,The Life of Michael Knapp,James Newton,978-1-5233-4383-6,2,2005,Biography,Pearson Education,Borrowed
+222,Master Your Light,Anthony Miller,978-0-911791-12-9,5,1994,Self-Help,Macmillan Publishers,Reserved
+223,Path: A Chronicle,Isaiah Massey MD,978-0-617-13665-1,5,2010,History,MIT Press,Available
+224,Star Every Day,Steven Keller,978-0-557-99802-9,5,2008,Self-Help,Wiley,Borrowed
+225,The Life of Dawn Martinez,Kimberly Holmes,978-0-513-05231-4,2,2016,Biography,Wiley,Available
+226,Storm: A Chronicle,Dr. Gregory Arnold,978-1-76863-423-2,5,2011,History,HarperCollins,Available
+227,The Power of Mountain,Kevin Miranda,978-0-376-76945-9,4,2009,Self-Help,McGraw-Hill,Available
+228,When Dream Falls,Jacqueline Chen,978-1-208-49649-9,1,1993,Fiction,McGraw-Hill,Available
+229,Ocean Explained,Allen White,978-1-253-13552-7,1,2010,Science,Penguin Random House,Available
+230,The Philosophy of Path,Gary Marshall,978-0-8164-9383-8,4,2004,Philosophy,Cambridge University Press,Available
+231,Understanding River,Shannon Jones,978-1-55330-770-9,5,2005,Science,Wiley,Borrowed
+232,The Rise of Shadow,James Ray,978-0-907426-08-0,4,2023,History,Springer,Borrowed
+233,Becoming Ancient,Brandon Lang,978-1-55618-579-3,3,1989,Self-Help,Hachette Book Group,Available
+234,Mastering Dream,Martin Lozano PhD,978-0-300-21563-2,1,1995,Technology,Macmillan Publishers,Reserved
+235,The Science of Star,Steven Mayo,978-1-01-041459-9,1,1995,Science,Springer,Available
+236,The Last Storm,Lauren Wilson,978-0-9671883-9-3,2,2012,Fiction,Hachette Book Group,Available
+237,The Star Handbook,Karen Davis,978-0-583-31170-0,3,1995,Technology,Hachette Book Group,Borrowed
+238,The Rise of Light,John Peterson,978-1-72812-356-1,1,2015,History,McGraw-Hill,Lost
+239,Fire: A Chronicle,Chelsea Ramirez,978-1-912711-30-7,3,2021,History,Pearson Education,Borrowed
+240,Dream Goes to School,Jodi Baker,978-1-63268-685-5,3,2004,Children,Simon & Schuster,Borrowed
+241,Mountain Every Day,Monique Henderson,978-0-629-48978-3,1,2015,Self-Help,Cambridge University Press,Available
+242,Little Storm,Colleen Brown,978-1-318-14396-2,2,2001,Children,Pearson Education,Available
+243,Ocean Explained,Debra Harris,978-1-4940-1289-2,2,1983,Science,Hachette Book Group,Reserved
+244,The Adventures of Storm,Ethan Jones,978-1-72076-502-8,5,1993,Children,Scholastic,Borrowed
+245,The Shadow Handbook,Alexandra Bell,978-0-7371-0094-5,2,1987,Technology,Springer,Borrowed
+246,Murder at Riverdale,Brandon Torres,978-1-75847-457-2,3,1998,Mystery,Cambridge University Press,Reserved
+247,The Case of the Golden Light,Patricia Vincent,978-0-480-26325-6,5,2011,Mystery,Scholastic,Available
+248,Principles of Storm,Cheryl Blevins,978-1-878245-56-4,3,2006,Science,Penguin Random House,Borrowed
+249,Leading with Light,Kevin Miles,978-1-79541-072-4,5,2017,Business,Springer,Borrowed
+250,Little Storm,Mary Torres,978-0-407-03491-4,5,1995,Children,Scholastic,Available
+251,Master Your Fire,April King,978-1-882142-36-1,4,2009,Self-Help,Simon & Schuster,Borrowed
+252,In the Words of Angela Robinson,Henry Cain,978-1-61449-429-4,1,2013,Biography,Penguin Random House,Available
+253,The Science of Dream,Randall Wright,978-0-441-49782-9,2,1984,Science,Springer,Reserved
+254,Shadow: A Chronicle,Jeremy Edwards,978-1-56766-708-0,5,2010,History,Pearson Education,Available
+255,Missing Shadow,Terry Buchanan,978-0-9894062-6-0,3,2014,Mystery,Hachette Book Group,Available
+256,A Story of River,Sara Miller,978-0-591-49750-2,5,1989,Fiction,Macmillan Publishers,Available
+257,The Light Handbook,Meredith Black,978-0-324-40793-8,1,2003,Technology,Cambridge University Press,Borrowed
+258,Murder at Clearwater,Brent Harris,978-0-87601-467-7,1,1985,Mystery,Cambridge University Press,Available
+259,My First Shadow,Melanie Villarreal,978-1-202-23288-8,2,1985,Children,Scholastic,Available
+260,River Goes to School,Kevin Richardson,978-1-61766-204-1,1,1994,Children,Macmillan Publishers,Borrowed
+261,The Light Strategy,Matthew Barry,978-0-527-74025-2,5,2022,Business,Penguin Random House,Available
+262,Lost Storm,Kelly Palmer,978-0-595-72446-8,2,2005,History,Bloomsbury,Reserved
+263,Understanding Dream,Lisa White,978-0-599-59961-1,5,2001,Science,Cambridge University Press,Available
+264,The History of Path,Brian Villa,978-1-331-26610-5,1,2007,History,Macmillan Publishers,Borrowed
+265,Principles of Shadow,Phillip Obrien,978-0-517-62983-3,3,2008,Science,Scholastic,Available
+266,Modern Mountain,Patrick Hamilton,978-0-901302-05-2,5,2022,Technology,Cambridge University Press,Available
+267,River Explained,Michael Rosario,978-0-397-85598-8,3,1989,Science,Cambridge University Press,Borrowed
+268,Lost River,Shelly Carroll,978-1-117-30985-9,1,1999,History,Scholastic,Borrowed
+269,The Life of Roberto Roberts,Jeanette Howard,978-1-189-38984-1,4,2008,Biography,Wiley,Borrowed
+270,The Power of River,John Lowery,978-0-05-643502-5,5,1985,Self-Help,McGraw-Hill,Available
+271,The Art of Light,Susan Brown,978-0-9905169-9-6,4,1985,Business,Springer,Borrowed
+272,Ocean Every Day,Nathaniel Garcia,978-0-567-43000-7,4,1990,Self-Help,Simon & Schuster,Reserved
+273,River and Meaning,Melanie Rojas,978-0-662-66821-3,4,1997,Philosophy,Cambridge University Press,Available
+274,On Light,Cory Kim,978-0-319-03689-1,4,2018,Philosophy,McGraw-Hill,Available
+275,Shadow in Practice,Anthony Brown,978-0-405-59342-0,3,2019,Technology,Cambridge University Press,Available
+276,In the Words of Karen Martinez,David Stephens,978-1-374-58438-9,3,2018,Biography,Springer,Available
+277,Path in Practice,Gregory Jenkins,978-1-132-83483-1,4,2016,Technology,MIT Press,Available
+278,The Path Handbook,David Alexander,978-0-07-044964-0,5,1992,Technology,McGraw-Hill,Available
+279,The Power of Storm,Kathleen Roy,978-1-03-362680-1,3,2024,Self-Help,HarperCollins,Available
+280,Little Storm,Susan Webster,978-1-930596-60-3,2,2007,Children,MIT Press,Borrowed
+281,My First Dream,Donna Ritter,978-1-998426-73-7,5,2024,Children,Cambridge University Press,Available
+282,Master Your Star,Angela Wright,978-1-960945-44-0,1,1986,Self-Help,MIT Press,Available
+283,The Star Handbook,Keith Morris,978-0-7707-0705-7,5,2021,Technology,Pearson Education,Borrowed
+284,River Goes to School,Destiny Bishop,978-0-7244-4723-7,1,1996,Children,Macmillan Publishers,Reserved
+285,Path Every Day,Brian Johnson,978-1-08-304405-1,4,2023,Self-Help,McGraw-Hill,Borrowed
+286,The Power of River,Jonathon Wilson,978-0-359-56164-3,4,1985,Self-Help,HarperCollins,Available
+287,Lost Storm,Jason Pearson,978-1-902504-29-2,4,2002,History,Scholastic,Available
+288,Principles of River,Priscilla Romero,978-0-690-26113-4,1,1987,Science,Penguin Random House,Available
+289,Yolanda Mccoy: A Memoir,Kimberly Martinez,978-1-887543-94-1,5,1990,Biography,Oxford University Press,Borrowed
+290,Becoming Ancient,Crystal Edwards,978-0-7651-5881-9,2,1991,Self-Help,Pearson Education,Available
+291,Little Star,Jason Hudson,978-0-692-94455-4,4,1980,Children,Springer,Available
+292,Mastering River,Johnny Keith,978-0-7021-6487-3,2,2003,Technology,Oxford University Press,Available
+293,The Ocean Handbook,Michael Fritz,978-1-65268-341-4,3,2018,Technology,Cambridge University Press,Available
+294,The Path Strategy,Ashley Bowen,978-1-76764-722-6,5,1991,Business,Chronicle Books,Available
+295,On Path,Brittany Smith,978-1-65728-941-3,2,1999,Philosophy,HarperCollins,Reserved
+296,The Rise of Dream,Kelly Romero,978-1-56522-036-2,5,1988,History,McGraw-Hill,Available
+297,My First Mountain,Dustin Wilson,978-1-7324491-3-8,2,2011,Children,Hachette Book Group,Available
+298,Shadow: A Chronicle,Nicole Johnson,978-0-07-053496-4,1,2011,History,Simon & Schuster,Available
+299,Modern Fire,Brian Mccarthy,978-1-67412-415-5,4,2011,Technology,Simon & Schuster,Borrowed
+300,Understanding Shadow,Christopher Rogers,978-0-506-18538-8,2,2014,Science,Hachette Book Group,Available
+301,Ocean: A Chronicle,Aimee Taylor,978-0-347-27274-2,5,1987,History,Hachette Book Group,Borrowed
+302,Master Your Shadow,Miranda Lewis,978-0-7893-2064-3,4,2014,Self-Help,Macmillan Publishers,Borrowed
+303,Little Shadow,Joseph Best,978-0-477-69587-9,3,2002,Children,Chronicle Books,Available
+304,The Science of Storm,Pamela Barnes,978-1-361-27515-3,5,2024,Science,Oxford University Press,Available
+305,Leading with Mountain,Dr. John Jenkins,978-0-448-36085-0,2,1983,Business,McGraw-Hill,Borrowed
+306,Evan Myers: A Memoir,James Gaines,978-1-350-47639-4,5,1997,Biography,Chronicle Books,Available
+307,The Power of Dream,Walter Bishop,978-0-06-155810-8,3,2021,Self-Help,Simon & Schuster,Lost
+308,Lost Dream,Joseph Heath,978-1-255-63830-9,2,2016,History,Pearson Education,Available
+309,River and Meaning,James Washington,978-1-4033-0416-2,1,2005,Philosophy,Wiley,Borrowed
+310,Thinking About Fire,Bradley Jones,978-0-08-921963-0,5,1980,Philosophy,Chronicle Books,Borrowed
+311,Principles of River,Patrick Turner,978-0-14-976461-2,4,1993,Science,Cambridge University Press,Borrowed
+312,The Path Handbook,Michael Hunter,978-0-7658-1739-6,5,1988,Technology,McGraw-Hill,Available
+313,The Hidden Secret,Justin Day,978-0-11-823793-2,4,1981,Mystery,HarperCollins,Borrowed
+314,The History of Storm,Sara Hodges,978-1-4645-2059-4,2,2021,History,Hachette Book Group,Available
+315,Lost Path,Justin Burns,978-1-357-78811-7,1,2003,History,Pearson Education,Borrowed
+316,Lost Dream,Joseph Martinez,978-1-106-72872-2,1,1986,History,Penguin Random House,Available
+317,Storm in Practice,Jeffrey Phillips,978-1-959224-83-9,4,1980,Technology,Penguin Random House,Available
+318,In the Words of Tiffany Watson,Kaitlyn Clark,978-0-287-05622-8,2,2004,Biography,HarperCollins,Borrowed
+319,Mountain Explained,Christina Davis,978-1-109-79215-7,2,2021,Science,Pearson Education,Available
+320,The History of Mountain,Corey Mitchell,978-1-59648-831-1,3,1993,History,Pearson Education,Available
+321,River: A Chronicle,Justin Martinez,978-1-9994973-2-3,2,1987,History,McGraw-Hill,Reserved
+322,My First Mountain,Lisa Thomas,978-0-510-28767-2,3,2021,Children,HarperCollins,Available
+323,The Light Handbook,Jamie Cruz,978-1-4858-1932-5,5,2018,Technology,Wiley,Available
+324,The Storm Handbook,Kristina Henry,978-0-86520-575-8,4,1987,Technology,Macmillan Publishers,Borrowed
+325,The Secret Secret,Dr. Janet White PhD,978-0-7583-0945-7,3,1988,Mystery,Cambridge University Press,Borrowed
+326,Leading with River,Lisa Johnson,978-1-60440-907-9,5,1984,Business,Penguin Random House,Available
+327,On Ocean,Nicole Aguirre,978-1-09-222161-0,5,2006,Philosophy,Cambridge University Press,Available
+328,Little River,Joshua Lucero,978-0-552-95806-6,1,2012,Children,Bloomsbury,Available
+329,Path in Practice,Philip Hernandez,978-0-270-49386-3,5,2020,Technology,MIT Press,Reserved
+330,Principles of Shadow,Donald Bell,978-1-919711-12-6,1,2007,Science,HarperCollins,Available
+331,The Golden Secret,Pamela Kramer,978-1-71343-240-1,1,1988,Mystery,Springer,Borrowed
+332,When Ocean Falls,Jennifer Conley,978-0-244-74175-4,3,1990,Fiction,Oxford University Press,Available
+333,Lost Shadow,Mark Decker,978-1-289-36543-1,4,1997,History,Wiley,Borrowed
+334,The Science of Fire,Debra Palmer,978-1-374-01827-3,3,1983,Science,Scholastic,Available
+335,Leading with River,Kevin Johnson,978-1-02-675512-9,1,1994,Business,Springer,Available
+336,The Power of Shadow,Alex Lamb,978-1-67345-957-9,3,2004,Self-Help,Bloomsbury,Available
+337,The History of Dream,Pamela Santana,978-1-64969-028-9,3,1995,History,Cambridge University Press,Available
+338,The Life of Eric Carlson,Kelly Lynn,978-0-501-42576-2,5,2023,Biography,Bloomsbury,Available
+339,Broken River,Elizabeth Miller,978-0-613-28507-0,3,1999,Fiction,Oxford University Press,Available
+340,The Science of Storm,Daniel Kennedy,978-1-316-25265-9,5,1999,Science,Springer,Available
+341,Fire in Business,James Jones,978-0-392-35558-2,5,1995,Business,Simon & Schuster,Available
+342,Ancient Ocean,Maria Taylor,978-0-346-15626-5,1,2001,Fiction,Penguin Random House,Reserved
+343,Storm Goes to School,Mr. Troy White,978-0-7151-6025-1,2,2006,Children,Scholastic,Borrowed
+344,The Last River,Matthew Santiago,978-0-464-19785-0,2,2013,Fiction,Cambridge University Press,Reserved
+345,The Life of Michelle Richard,Ashley White,978-1-120-59438-9,2,2020,Biography,Chronicle Books,Available
+346,The Adventures of Mountain,Douglas Martinez,978-1-5095-4654-1,3,1996,Children,Chronicle Books,Available
+347,In the Words of Allison Adams,Jason Griffin,978-0-915086-32-0,3,1994,Biography,HarperCollins,Reserved
+348,Mastering River,Jessica Hill,978-0-89701-550-9,4,2009,Technology,Oxford University Press,Available
+349,Fire Goes to School,Janet Baird,978-1-4660-2416-8,4,1996,Children,Chronicle Books,Available
+350,Shadow Explained,Lisa Ryan PhD,978-1-9736-4248-0,3,1989,Science,HarperCollins,Available
+351,Modern Shadow,Denise Russell,978-1-244-79513-6,3,1996,Technology,Chronicle Books,Reserved
+352,Ocean: A Chronicle,Monica Lynch,978-1-958678-05-3,5,1995,History,HarperCollins,Available
+353,Murder at Millbrook,Patrick Clark,978-1-4609-1785-5,2,1988,Mystery,Macmillan Publishers,Available
+354,The Adventures of Star,Paul Hayes,978-0-299-29596-7,1,1981,Children,HarperCollins,Available
+355,Modern River,Patrick Fritz,978-0-691-16331-4,1,1982,Technology,Scholastic,Reserved
+356,A Story of Fire,Morgan Morales,978-1-369-45515-1,4,2023,Fiction,Cambridge University Press,Available
+357,The Rise of Light,Peter Mitchell,978-0-264-08572-2,2,1982,History,McGraw-Hill,Available
+358,Dream in Business,Jason Lopez,978-0-299-81996-5,4,1983,Business,HarperCollins,Borrowed
+359,Ocean and Meaning,Kaitlyn Davis,978-0-9688327-5-2,5,1981,Philosophy,Cambridge University Press,Available
+360,In the Words of Cynthia Kennedy,Christina Anderson,978-0-397-73973-8,3,2004,Biography,Hachette Book Group,Available
+361,The Rise of Light,Larry Rivera,978-0-7100-6876-7,4,2013,History,Oxford University Press,Available
+362,Leading with Storm,Barbara Frank,978-1-70460-568-5,2,1997,Business,Wiley,Lost
+363,The Last Dream,Ryan Chang,978-0-565-23734-9,2,1991,Fiction,Macmillan Publishers,Borrowed
+364,Shadow in Business,Katherine Sanchez,978-1-4757-4949-6,3,2016,Business,McGraw-Hill,Available
+365,The Rise of Ocean,Spencer Elliott,978-1-294-77422-8,2,2011,History,Penguin Random House,Available
+366,Understanding Ocean,Alyssa Lewis,978-0-904588-67-5,1,2001,Science,Bloomsbury,Available
+367,Leading with Mountain,Samuel Edwards,978-1-72872-760-8,1,1981,Business,Simon & Schuster,Available
+368,Leading with Ocean,Chris Franklin,978-0-577-90833-6,1,2003,Business,Springer,Borrowed
+369,Path Goes to School,Katie Nelson,978-0-7983-3423-5,2,2007,Children,MIT Press,Borrowed
+370,Murder at Westgate,Deborah Ramirez,978-0-284-03339-0,2,2022,Mystery,McGraw-Hill,Borrowed
+371,Lost Mountain,Amber Tyler,978-0-7171-7318-1,1,2024,History,McGraw-Hill,Available
+372,The Adventures of Star,Jeffrey Stein,978-0-9970469-4-6,5,1994,Children,Pearson Education,Borrowed
+373,The Art of Path,Elizabeth Camacho,978-1-4884-7127-8,1,1995,Business,Oxford University Press,Available
+374,The Life of Steven Hicks,Christopher Hodges DDS,978-1-58231-334-4,3,1993,Biography,Macmillan Publishers,Available
+375,The Science of Shadow,Eric Lynch,978-1-236-22925-0,4,2006,Science,Simon & Schuster,Available
+376,My First Ocean,Penny Adams,978-1-4524-5557-0,1,2010,Children,MIT Press,Available
+377,Leading with Fire,Todd Brown,978-1-274-03344-4,1,1998,Business,Penguin Random House,Borrowed
+378,The Life of Allison Simmons,Justin Stevenson,978-1-4113-2579-1,4,1990,Biography,Springer,Available
+379,The Science of Star,Melissa Stout,978-0-499-60105-6,4,1981,Science,Cambridge University Press,Available
+380,Shadow: A Chronicle,Chad Brady,978-1-229-49381-1,3,1993,History,Macmillan Publishers,Borrowed
+381,Light Goes to School,Kristin Roth,978-0-15-573257-5,1,1983,Children,Cambridge University Press,Borrowed
+382,The Art of Shadow,Deanna Munoz,978-0-16-667080-4,1,2007,Business,HarperCollins,Available
+383,River and Meaning,Andrew Gordon,978-1-4951-1918-7,2,1990,Philosophy,Pearson Education,Borrowed
+384,Light and Meaning,Anita Nielsen,978-0-647-72512-2,4,2011,Philosophy,Bloomsbury,Reserved
+385,Path and Meaning,Samantha Reynolds,978-1-940960-03-6,3,1991,Philosophy,Scholastic,Available
+386,A Story of Storm,Patricia Patel,978-1-923234-21-5,5,1983,Fiction,Simon & Schuster,Available
+387,Dream Explained,Kimberly Blevins,978-1-333-42643-9,2,2015,Science,Penguin Random House,Available
+388,My First Fire,Steven Gonzales,978-0-7360-7763-7,2,2010,Children,Hachette Book Group,Borrowed
+389,The Science of Star,Christopher Gentry,978-0-317-95563-7,5,2023,Science,McGraw-Hill,Available
+390,Mountain: A Chronicle,Jordan Duffy,978-0-666-15541-2,2,1988,History,Penguin Random House,Available
+391,My First Mountain,Mrs. Maria Price DDS,978-1-02-329028-9,3,2000,Children,Bloomsbury,Available
+392,Principles of Path,Robert Cline,978-1-962622-82-0,5,2009,Science,Bloomsbury,Available
+393,A Story of Dream,Ashley Martin,978-0-465-49500-9,2,2016,Fiction,McGraw-Hill,Borrowed
+394,The Star Strategy,Susan Williams,978-0-210-53161-7,3,2014,Business,Bloomsbury,Borrowed
+395,Finding John Lucero,Kimberly Taylor,978-1-77425-859-0,5,2010,Biography,Penguin Random House,Borrowed
+396,The Rise of Star,Laura Martinez,978-0-311-64913-6,4,1982,History,Cambridge University Press,Available
+397,The Life of Cody Hopkins,William Barnett,978-0-565-29060-3,1,2001,Biography,Chronicle Books,Borrowed
+398,Storm and Meaning,Sara Young,978-1-09-775396-3,3,2008,Philosophy,MIT Press,Available
+399,In the Words of Daniel Howell,Autumn Ramirez,978-1-245-78715-4,4,1993,Biography,Bloomsbury,Available
+400,Ocean Goes to School,Alexander Daniels,978-0-7118-4254-0,1,1999,Children,Springer,Borrowed
+401,The Power of Storm,Valerie White,978-0-303-58929-7,1,1995,Self-Help,Penguin Random House,Available
+402,The Case of the Ancient Light,David Valentine,978-1-212-93289-1,4,2012,Mystery,Cambridge University Press,Available
+403,Understanding Fire,Jennifer Price,978-1-75240-148-2,4,1991,Science,Chronicle Books,Borrowed
+404,The Case of the Dark Mountain,Andrea Fischer,978-0-7236-2669-5,1,1998,Mystery,Penguin Random House,Borrowed
+405,Little Storm,Desiree Stafford,978-0-372-45018-4,2,1997,Children,Pearson Education,Available
+406,The Adventures of Mountain,Matthew Evans,978-1-215-40641-2,2,2018,Children,MIT Press,Available
+407,When Dream Falls,Sharon Freeman,978-0-8119-9537-5,3,2009,Fiction,Hachette Book Group,Available
+408,Modern River,Sharon Ramirez,978-1-85645-101-7,5,2022,Technology,Chronicle Books,Available
+409,Finding Karla Willis,Jeffrey Baker,978-1-9860-9191-6,1,2001,Biography,Hachette Book Group,Available
+410,Finding Autumn Gallagher,Michael Mckee,978-1-05-779806-5,5,1995,Biography,Bloomsbury,Borrowed
+411,A Story of Mountain,Allison Bradley,978-1-146-07455-1,1,2021,Fiction,Scholastic,Borrowed
+412,Dream and Meaning,Erika Lyons,978-0-388-56527-8,1,2017,Philosophy,Springer,Available
+413,Ocean in Business,Sara Perez,978-0-16-597263-3,4,2022,Business,Oxford University Press,Borrowed
+414,Mountain Every Day,Stephanie Fischer,978-1-01-394884-8,1,2010,Self-Help,Simon & Schuster,Available
+415,The Philosophy of River,Christina Davis,978-1-258-56261-8,3,1994,Philosophy,Springer,Borrowed
+416,Thinking About Light,Lisa Arellano,978-0-7038-2407-3,3,2009,Philosophy,Chronicle Books,Available
+417,The Science of Storm,Jessica Cain,978-0-430-97768-4,1,2023,Science,Cambridge University Press,Available
+418,The Power of Mountain,Lauren Burton,978-1-5465-5358-8,3,2006,Self-Help,McGraw-Hill,Available
+419,Murder at Westgate,Victoria Wright,978-0-87851-935-4,2,2000,Mystery,Pearson Education,Available
+420,When Mountain Falls,Mrs. Laura Brown,978-1-961208-78-0,2,2011,Fiction,MIT Press,Available
+421,Principles of Dream,Amy Gomez,978-1-09-762637-3,4,2004,Science,Penguin Random House,Available
+422,When Path Falls,Robert Romero,978-0-89509-059-1,2,1981,Fiction,Pearson Education,Available
+423,The Last Path,Monica Oconnor,978-0-207-15116-3,2,1986,Fiction,Cambridge University Press,Borrowed
+424,Shadow Every Day,Michael Taylor,978-0-14-526471-0,3,2009,Self-Help,Springer,Borrowed
+425,Master Your Mountain,Miss Gina Walton,978-0-908051-20-5,4,2002,Self-Help,MIT Press,Borrowed
+426,Modern Storm,Alexander Stein,978-0-239-72835-7,2,1993,Technology,Springer,Available
+427,The Last Path,Christopher Alexander,978-0-7090-8144-9,1,2004,Fiction,Bloomsbury,Borrowed
+428,On Shadow,Brett Lee,978-1-78671-815-0,1,2021,Philosophy,Chronicle Books,Borrowed
+429,Broken Fire,Robert Williams Jr.,978-0-8158-9988-4,1,2015,Fiction,Hachette Book Group,Available
+430,Murder at Stonehaven,Jerome Gonzalez,978-1-66170-715-6,1,2022,Mystery,Wiley,Borrowed
+431,The Philosophy of River,Patricia Townsend DDS,978-0-14-998250-4,5,1987,Philosophy,Hachette Book Group,Borrowed
+432,Principles of Star,Victor Williams,978-0-85031-723-7,3,2013,Science,Macmillan Publishers,Borrowed
+433,Finding Angel Harris,Martin Smith,978-0-14-035263-4,4,1993,Biography,Springer,Borrowed
+434,The Hidden Secret,David Barnett,978-1-346-06664-6,5,2022,Mystery,Scholastic,Available
+435,The History of Light,Adam Schwartz,978-1-231-11271-7,2,2009,History,Hachette Book Group,Reserved
+436,On Shadow,Michael Arias,978-1-84494-116-2,3,2023,Philosophy,Oxford University Press,Available
+437,The Adventures of Shadow,Kathleen Martinez,978-1-71130-621-6,2,2001,Children,Oxford University Press,Borrowed
+438,The Case of the Lost Path,Jessica Thomas,978-0-350-90254-4,2,1987,Mystery,Cambridge University Press,Reserved
+439,Fire Goes to School,Jeanne Hernandez,978-0-323-57071-8,2,1987,Children,Simon & Schuster,Reserved
+440,The Last Dream,Joshua Stewart,978-0-688-09255-9,4,2016,Fiction,Pearson Education,Lost
+441,Missing Star,Aaron Brown,978-0-309-81079-1,2,2010,Mystery,Bloomsbury,Available
+442,Missing Shadow,Paul Vega,978-1-77278-532-6,3,2021,Mystery,Oxford University Press,Available
+443,The Last Ocean,David Martin,978-1-4207-6836-7,5,1986,Fiction,Cambridge University Press,Borrowed
+444,Modern Ocean,Stephen Murray,978-1-67555-628-3,1,1980,Technology,Pearson Education,Available
+445,Mountain: A Chronicle,Shane Hopkins,978-1-86543-627-2,4,2000,History,Macmillan Publishers,Available
+446,The Life of Matthew Evans,Patricia Hanson,978-0-358-26862-8,4,2005,Biography,Chronicle Books,Reserved
+447,Modern Fire,Carrie Terrell,978-1-932657-32-6,4,2008,Technology,Oxford University Press,Available
+448,The Science of Dream,Kerry Fuller,978-0-11-000515-7,1,2015,Science,Wiley,Lost
+449,When Ocean Falls,Elizabeth Jones,978-1-75244-182-2,4,2001,Fiction,Oxford University Press,Borrowed
+450,A Story of Ocean,Lisa Moore,978-1-312-71026-9,5,2010,Fiction,Springer,Borrowed
+451,The Life of John Wang,Victoria Cox,978-0-7079-5515-5,3,2002,Biography,Chronicle Books,Borrowed
+452,Thinking About Shadow,Chase Haney,978-1-4159-7099-7,4,1988,Philosophy,Chronicle Books,Available
+453,Little River,Douglas Meyer,978-1-5203-4476-8,2,2009,Children,Chronicle Books,Available
+454,Mastering Shadow,Mary Cook,978-0-909046-37-8,5,1987,Technology,MIT Press,Borrowed
+455,Murder at Riverdale,Gabriela Pratt,978-1-5254-8374-5,1,2015,Mystery,Bloomsbury,Available
+456,My First Mountain,Melvin Flores,978-0-213-12512-7,5,1991,Children,Springer,Borrowed
+457,Lost Dream,Nathaniel Doyle,978-0-297-51910-2,5,2024,History,MIT Press,Available
+458,The Fire Handbook,Brandon Bean,978-1-330-16583-6,2,2006,Technology,McGraw-Hill,Available
+459,Master Your Storm,Charlotte Roberts,978-1-280-12342-9,2,2019,Self-Help,Springer,Available
+460,The Philosophy of Ocean,Philip Lopez,978-0-269-49684-4,3,1987,Philosophy,MIT Press,Borrowed
+461,In the Words of David Cooper,Adam Zamora,978-1-210-17509-2,1,2013,Biography,HarperCollins,Available
+462,Hidden Storm,Jill Rowland,978-1-959194-57-6,2,1998,Fiction,Pearson Education,Available
+463,On Storm,John Gardner,978-0-920567-75-3,1,2002,Philosophy,Chronicle Books,Available
+464,Murder at Ashford,Steven Hayes,978-1-60256-265-3,5,2024,Mystery,Hachette Book Group,Available
+465,A Story of Path,Kevin White,978-0-672-45307-6,1,1980,Fiction,Springer,Reserved
+466,Path and Meaning,Crystal Tucker,978-1-62705-115-6,5,2018,Philosophy,Macmillan Publishers,Available
+467,Mountain in Practice,Kathleen Robinson,978-0-425-49691-6,5,1987,Technology,Cambridge University Press,Available
+468,When Mountain Falls,Michael Anderson,978-0-07-563353-2,3,1980,Fiction,Oxford University Press,Available
+469,Murder at Westgate,Karen Ramirez,978-1-325-93993-0,5,1983,Mystery,MIT Press,Borrowed
+470,Star in Business,Emily Gilmore,978-0-9518779-4-4,3,1984,Business,MIT Press,Borrowed
+471,James Lee: A Memoir,Michelle Cox,978-1-330-55978-9,2,2006,Biography,Wiley,Available
+472,Master Your Storm,Miss Kimberly Holloway,978-0-403-88436-0,3,2001,Self-Help,Oxford University Press,Available
+473,Shadow and Meaning,Charles Johnson,978-0-572-76829-4,3,2008,Philosophy,Macmillan Publishers,Available
+474,Leading with Path,Craig Obrien,978-0-925010-58-2,1,2004,Business,Hachette Book Group,Reserved
+475,The Power of Path,Alexander Hamilton,978-1-259-04599-8,5,2008,Self-Help,Scholastic,Borrowed
+476,The Last Ocean,Kathleen Mcintosh,978-0-18-231555-0,1,1990,Fiction,MIT Press,Available
+477,The Power of Storm,Antonio Butler,978-0-8137-2143-9,4,1986,Self-Help,Macmillan Publishers,Available
+478,Becoming Lost,Ryan Perez,978-0-332-28556-6,4,2001,Self-Help,Penguin Random House,Borrowed
+479,Understanding Ocean,Katherine Caldwell,978-0-03-903397-2,5,1994,Science,Bloomsbury,Available
+480,Dream and Meaning,Steven Martin,978-0-8094-4858-6,1,2004,Philosophy,Pearson Education,Available
+481,The Science of Shadow,Craig Hurst,978-0-470-79863-8,1,2002,Science,Bloomsbury,Available
+482,Master Your River,Shelly Gonzalez,978-0-945703-94-5,4,2004,Self-Help,Cambridge University Press,Available
+483,The Last Dream,Shannon Clark,978-1-76927-789-6,3,2020,Fiction,Simon & Schuster,Available
+484,Thinking About Ocean,Luis Wilkerson,978-0-04-047692-8,2,1987,Philosophy,Penguin Random House,Borrowed
+485,A Story of Ocean,Natalie Watson,978-1-04-014247-9,3,1993,Fiction,Springer,Available
+486,Stacy Mcbride: A Memoir,Thomas Garner,978-1-201-13798-6,5,1996,Biography,Macmillan Publishers,Available
+487,The Science of Fire,Michael Lewis,978-1-00-767620-7,5,1984,Science,Hachette Book Group,Available
+488,Understanding Fire,Diana Campbell,978-0-404-33700-1,3,1988,Science,Pearson Education,Available
+489,Mastering Path,Katherine Hall,978-1-5195-7782-5,4,2001,Technology,McGraw-Hill,Available
+490,The Philosophy of Star,Erica Fowler,978-0-9657542-7-9,3,2007,Philosophy,Simon & Schuster,Borrowed
+491,The Last Light,David Taylor,978-1-78205-829-8,2,2023,Fiction,Springer,Available
+492,In the Words of Mark Garner,Laura Rowland,978-1-161-88081-6,4,2015,Biography,HarperCollins,Borrowed
+493,The History of Mountain,Nancy Sutton,978-1-155-86863-9,2,1996,History,Springer,Borrowed
+494,The Science of Shadow,Courtney Schneider MD,978-0-8172-1436-4,5,2005,Science,MIT Press,Borrowed
+495,The Light Strategy,Cheryl Smith,978-0-321-14716-5,5,2010,Business,Pearson Education,Available
+496,The Rise of Light,Grace Brooks,978-1-997990-70-3,4,2012,History,Wiley,Available
+497,The Science of Star,Patricia Henderson,978-1-06-071748-0,2,2012,Science,Simon & Schuster,Available
+498,Murder at Millbrook,Anna James,978-0-9705487-3-3,2,2011,Mystery,Macmillan Publishers,Available
+499,Understanding Storm,Megan Johnson,978-0-8274-9680-4,3,2004,Science,Scholastic,Available
+500,The Dark Secret,Jesse Nash,978-1-956121-37-7,5,2020,Mystery,Chronicle Books,Borrowed
