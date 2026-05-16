@@ -29,7 +29,7 @@ The project covers the complete data lifecycle: relational schema design → syn
 ### Inventory & Reservations
 ![Inventory](screenshots/page3_inventory.png)
 
-> 📊 **[View Live Dashboard →](YOUR_POWER_BI_SERVICE_URL_HERE)**
+> 📊 **[View Dashboard PDF →](dashboard/LibraryDashboard.pdf)**
 
 ---
 
